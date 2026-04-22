@@ -32,9 +32,9 @@ The analysis focuses on identifying relationships between test scores and featur
 - Generate insights using data visualization
 
 ## TECH STACK
-Python 3.x
-Pandas — data manipulation and EDA
-NumPy — numerical operations
-Matplotlib — base plotting
-Seaborn — statistical visualizations
-Jupyter Notebook — interactive analysis environment
+- Python 3.x
+- Pandas — data manipulation and EDA
+- NumPy — numerical operations
+- Matplotlib — base plotting
+- Seaborn — statistical visualizations
+- Jupyter Notebook — interactive analysis environment
