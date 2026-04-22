@@ -31,4 +31,10 @@ The analysis focuses on identifying relationships between test scores and featur
 - Identify key factors influencing exam scores
 - Generate insights using data visualization
 
-- 🛠 Tools Used (Python, Pandas, Numpy,matplolib,Seabor)
+## TECH STACK
+Python 3.x
+Pandas — data manipulation and EDA
+NumPy — numerical operations
+Matplotlib — base plotting
+Seaborn — statistical visualizations
+Jupyter Notebook — interactive analysis environment
