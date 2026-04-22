@@ -30,3 +30,5 @@ The analysis focuses on identifying relationships between test scores and featur
 - Understand patterns and relationships in student performance
 - Identify key factors influencing exam scores
 - Generate insights using data visualization
+
+- 🛠 Tools Used (Python, Pandas, Numpy,matplolib,Seabor)
